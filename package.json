@@ -12,6 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/vadymfrlv/goit-node-hw-01.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {

@@ -1,3 +1,3 @@
 # goit-node-hw-01
 
-CLI App
+![GitHub actions settings](./img/consoleScreenshot.png)
